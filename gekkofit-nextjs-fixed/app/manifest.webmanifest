@@ -1,0 +1,10 @@
+{
+  "name": "GEKKO FIT",
+  "short_name": "GEKKO FIT",
+  "description": "Трекер тренировок и прогресса",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0D0D0D",
+  "theme_color": "#0D0D0D",
+  "icons": [{"src": "/gekkofit-logo.png", "sizes": "1024x1024", "type": "image/png"}]
+}
